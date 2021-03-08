@@ -21,4 +21,4 @@ Scores: {
 }  
 
 
-To run the ipynb files, provide the required paths  
+To run the ipynb files, provide the required paths inside the notebook.  The code is inspired from https://github.com/AnyiRao/SceneSeg the LGSS repo and architectural modifications are made on top of it
