@@ -1,5 +1,6 @@
 # Scene-Segmentation
-Code for eluvio scene segmentation
+Training was done on google colab. To run the ipynb files, provide the required paths inside the notebook.  The code is inspired from https://github.com/AnyiRao/SceneSeg the LGSS repo and architectural modifications are made on top of it
+
 
 Results:
 
@@ -19,6 +20,3 @@ Scores: {
     "Recall": 0.6041040503907537,  
     "F1": 0.5020978697516447  
 }  
-
-
-To run the ipynb files, provide the required paths inside the notebook.  The code is inspired from https://github.com/AnyiRao/SceneSeg the LGSS repo and architectural modifications are made on top of it
