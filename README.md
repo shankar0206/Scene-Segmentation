@@ -1,5 +1,5 @@
 # Scene-Segmentation
-Training was done on google colab. To run the ipynb files, provide the required paths inside the notebook.  The code is referenced from https://github.com/AnyiRao/SceneSeg the LGSS repo and architectural modifications are made on top of it
+Training was done on google colab. The NB's are colab notebooks. To run the ipynb files, provide the required paths inside the notebook.  The code is referenced from https://github.com/AnyiRao/SceneSeg the LGSS repo and architectural modifications are made on top of it
 
 
 Results:
