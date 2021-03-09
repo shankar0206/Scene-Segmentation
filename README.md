@@ -20,3 +20,6 @@ Scores: {
     "Recall": 0.6041040503907537,  
     "F1": 0.5020978697516447  
 }  
+
+
+Pretrained Model: 4/1AY0e-g7aXjxXaGbGuKjBnKHNQQJvbRB6E3vskkk4U0vDtx8HRZdNBvVdJi8
