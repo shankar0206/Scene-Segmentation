@@ -22,4 +22,4 @@ Scores: {
 }  
 
 
-Pretrained Model: 4/1AY0e-g7aXjxXaGbGuKjBnKHNQQJvbRB6E3vskkk4U0vDtx8HRZdNBvVdJi8
+Pretrained Model: https://drive.google.com/file/d/102i2-kumZQlV42OrKXVVjvBPy66pHRfo/view?usp=sharing
